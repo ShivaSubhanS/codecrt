@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# codecrt
-=======
 # CodeCRT - Collaborative Code Editor
 
 CodeCRT is a full-stack web application for real-time collaborative code editing with a Matrix-inspired interface. The application allows multiple users to code together in real-time with features like syntax highlighting, code execution, and a retro CRT-styled UI.
